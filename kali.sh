@@ -1,7 +1,14 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo
 clear
-echo '
+echo "
+        +-+-+-+-+ +-+-+-+-+-+-+-+
+        |K|a|l|i| |i|n|s|t|a|l|l|
+        +-+-+-+-+ +-+-+-+-+-+-+-+
+            +-+-+ +-+-+-+-+-+-+
+            |b|y| |R|4|M|S|E|S|
+            +-+-+ +-+-+-+-+-+-+
+"
 
 
 pkg install wget -y 
