@@ -10,6 +10,10 @@
  <h1>  Usage : </h1>
 <br>
 
+* apt upgrade
+
+* git clone https://github.com/RAMSES-DG/kali-install
+
  * cd $HOME/kali-install
 
 * chmod 777 kali.sh
