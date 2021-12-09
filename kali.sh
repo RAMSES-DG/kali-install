@@ -1,4 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
+echo
+clear
+echo '
+
+
 pkg install wget -y 
 folder=kali-fs
 if [ -d "$folder" ]; then
