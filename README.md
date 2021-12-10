@@ -20,6 +20,7 @@
 <br> 
 
 * wait some time •
+<br> 
 
 - after install - launch kali by command  ./start-kali
 </html>
