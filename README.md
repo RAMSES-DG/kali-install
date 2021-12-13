@@ -6,6 +6,18 @@
  <h1> <p align='center'> <b> KALI-INSTALL <br> </h1>
   </body>
 
+<font size='1px'>
+<h1>  Need : </h1>
+<br> 
+
+* pkg install wget curl proot tar -y
+<br> 
+
+* git clone https://github.com/RAMSES-DG/kali-install
+
+<br>
+<font size='1px'>
+
  <font size='1px'>
  <h1>  Usage : </h1>
 <br>
