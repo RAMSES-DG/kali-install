@@ -1,6 +1,6 @@
 <html>
   <body>
- <img src='https://h.top4top.io/p_2173tpb5w0.jpg'/>
+ <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgK4X193PhphqZKfnTw8fZuOUPtIRhsfd0cw&usqp=CAU'/>
 
  <font color=blue size='10px' face='tahoma'>
  <h1> <p align='center'> <b> KALI-INSTALL <br> </h1>
